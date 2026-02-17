@@ -1,2 +1,0 @@
-# This project currently uses Python standard library only.
-# No pip packages are required for translate_pdf.py.
